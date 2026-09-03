@@ -4,9 +4,9 @@ A free, responsive team website designed for GitHub Pages.
 
 ## Customize it
 
-The team name, number, story, Instagram, mailing list, and join form are already
-included. Update the robot details and replace the sponsor placeholders as the
-season develops.
+The team name, number, story, competition history, photos, Instagram, mailing
+list, and join form are already included. Update the robot details and replace
+the sponsor placeholders as the season develops.
 
 Edit colors at the top of `styles.css`. Add team images in an `images` folder and reference them from `index.html`.
 
