@@ -89,6 +89,8 @@ nav a { font-size: .9rem; font-weight: 600; text-decoration: none; }
 .contact .eyebrow, .contact p { color: #e5ebff; }
 .contact h2 { margin-bottom: 16px; }
 .light { margin-top: 22px; color: var(--ink); background: var(--white); border-color: var(--white); }
+.contact-actions { justify-content: center; margin-bottom: 0; }
+.outline-light { color: var(--white); background: transparent; }
 footer { display: grid; grid-template-columns: 1fr auto; align-items: center; gap: 16px; max-width: var(--max); margin: auto; padding: 38px 24px; }
 footer p { margin: 0; font-size: .78rem; text-align: right; }
 .disclaimer { grid-column: 1 / -1; }

@@ -4,12 +4,9 @@ A free, responsive team website designed for GitHub Pages.
 
 ## Customize it
 
-Search `index.html` for these placeholders and replace them:
-
-- `00000` — FTC team number
-- `Team Name` — official team name
-- `team@example.com` — team-controlled contact address
-- Placeholder statistics, robot features, outreach descriptions, and sponsors
+The team name, number, story, Instagram, mailing list, and join form are already
+included. Update the robot details and replace the sponsor placeholders as the
+season develops.
 
 Edit colors at the top of `styles.css`. Add team images in an `images` folder and reference them from `index.html`.
 
